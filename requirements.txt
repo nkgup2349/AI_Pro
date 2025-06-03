@@ -1,0 +1,5 @@
+pyresparser
+streamlit
+streamlit-tags
+nltk
+spacy>=3.0
