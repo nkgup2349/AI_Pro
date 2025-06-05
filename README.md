@@ -33,3 +33,20 @@ This project ranks candidates based on their suitability for a job by processing
   ],
   "job_description": "We are looking for a candidate with skills in python, ml, and nlp. Offered package is 75000."
 }.
+```
+
+##Output JSON Format
+
+```json
+{
+  "ranked_candidates": [
+    {
+      "name": "John Doe",
+      "score": 92
+    },
+    {
+      "name": "Jane Smith",
+      "score": 65
+    }
+  ]
+}
