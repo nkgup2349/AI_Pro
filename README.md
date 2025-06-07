@@ -15,6 +15,22 @@ This project ranks candidates based on their suitability for a job by processing
   - Additional configurable criteria
 - Output: JSON file with candidates ranked from best to least suitable.
 
+
+## 🛠 Tech Stack
+
+- Python  
+- SpaCy  
+- Regular Expressions  
+- Pandas  
+- JSON  
+
+
+## 📂 How to Run
+
+1. Clone the repository  
+```
+git clone https://github.com/nkgup2349/AI_Pro.git
+```
 ## Input JSON Format
 
 ```json
@@ -119,7 +135,7 @@ pip install -r requirements.txt
 # Run the Streamlit app
 
 ```
-streamlit run App.py
+python main.py
 ```
 
 
