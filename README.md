@@ -111,11 +111,12 @@ This project ranks candidates based on their suitability for a job by processing
 
 ## 🚀 How to Run
 
-# Install dependencies
-pip install -r requirements.txt
+ Install dependencies
+run pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run App.py
+run streamlit run App.py
+
 
 
 ## 🧱 Project Structure
