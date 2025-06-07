@@ -104,3 +104,35 @@ This project ranks candidates based on their suitability for a job by processing
     "score":47
   },
 ]
+
+
+
+```
+
+## 🚀 How to Run
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run App.py
+
+
+## 🧱 Project Structure
+
+.
+├── App.py                     # Main Streamlit application
+├── candidate_sample.json      # Sample input data
+├── requirements.txt           # Dependencies
+└── README.md                  # Documentation
+
+##💡 Future Improvements
+
+Integration with PDF/Docx parsers for resume extraction
+
+Admin dashboard for managing job postings and uploads
+
+MongoDB integration for persistent candidate storage
+
+More refined NLP techniques for deeper semantic analysis
+
