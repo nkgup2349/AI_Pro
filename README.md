@@ -124,12 +124,14 @@ streamlit run App.py
 
 
 ## 🧱 Project Structure
-
+```
 .
 ├── App.py                     # Main Streamlit application
 ├── candidate_sample.json      # Sample input data
 ├── requirements.txt           # Dependencies
 └── README.md                  # Documentation
+
+```
 
 ##💡 Future Improvements
 
