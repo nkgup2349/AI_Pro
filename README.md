@@ -132,7 +132,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-# Run the Streamlit app
+# Run the app
 
 ```
 python main.py
