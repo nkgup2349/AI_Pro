@@ -86,7 +86,7 @@ This project ranks candidates based on their suitability for a job by processing
     },
   ],
   "job_description": "Job Title: HR Recruiter (IT / Non-IT)\nJob Location: Greater Noida West\nYears of Experience: 1.5 - 3 Years\nBudget: Up to ₹3.5 LPA\nJob Type: Full-time, Permanent Role\n\nKey Responsibilities:\n1. Partner with client-side hiring managers to understand staffing needs.\n2. Review and align job descriptions with ideal candidate profiles.\n3. Source candidates using job portals, social media, and internal databases.\n4. Conduct telephonic/video screening and assess relevant experience.\n5. Coordinate interviews between shortlisted candidates and hiring managers.\n6. Maintain timely updates and follow-ups throughout the hiring process.\n7. Act as a liaison between candidates and clients until onboarding.\n8. Build a pipeline of qualified candidates for recurring requirements.\n\nRequirements and Skills:\n- 1.5–3 years of hands-on recruitment experience (IT/Non-IT).\n- Strong in sourcing, screening, interview coordination, and onboarding.\n- Familiar with ATS tools, MS Office, and Google Workspace (Docs, Sheets, Gmail).\n- Excellent verbal and written communication in English and Hindi.\n- Immediate joiners or candidates with up to 15 days notice preferred.\n- Comfortable with onsite work at Greater Noida West.\n\nPreferred Traits:\n- Strong client and candidate management skills.\n- Confident in handling high-volume hiring with quick TAT.\n- Ability to manage Excel-based trackers or dashboards.\n- Open to permanent roles and long-term growth."
-}.
+}
 ```
 
 ##Output JSON Format
@@ -103,5 +103,4 @@ This project ranks candidates based on their suitability for a job by processing
     "name": "John Doe",
     "score":47
   },
-  ...
 ]
