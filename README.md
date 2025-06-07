@@ -151,11 +151,11 @@ python main.py
 
 ##💡 Future Improvements
 
-Integration with PDF/Docx parsers for resume extraction
+-Integration with PDF/Docx parsers for resume extraction
 
-Admin dashboard for managing job postings and uploads
+-Admin dashboard for managing job postings and uploads
 
-MongoDB integration for persistent candidate storage
+-MongoDB integration for persistent candidate storage
 
-More refined NLP techniques for deeper semantic analysis
+-More refined NLP techniques for deeper semantic analysis
 
