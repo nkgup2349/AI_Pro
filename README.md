@@ -25,12 +25,7 @@ This project ranks candidates based on their suitability for a job by processing
 - JSON  
 
 
-## 📂 How to Run
 
-1. Clone the repository  
-```
-git clone https://github.com/nkgup2349/AI_Pro.git
-```
 ## Input JSON Format
 
 ```json
@@ -126,6 +121,11 @@ git clone https://github.com/nkgup2349/AI_Pro.git
 ```
 
 ## 🚀 How to Run
+
+ Clone the repository  
+```
+git clone https://github.com/nkgup2349/AI_Pro.git
+```
 
 Install dependencies
 ```
